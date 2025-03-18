@@ -1,0 +1,2 @@
+Netflix filter=lfs diff=lfs merge=lfs -text
+Netflix.txt filter=lfs diff=lfs merge=lfs -text
